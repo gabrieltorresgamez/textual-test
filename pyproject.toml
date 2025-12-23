@@ -1,0 +1,10 @@
+[project]
+name = "textual-test"
+version = "0.0.1"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "pyinstaller>=6.17.0",
+    "textual>=6.11.0",
+]
